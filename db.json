@@ -1,23 +1,24 @@
 {
-  "bg": "https://7wallpapers.net/wp-content/uploads/12_Dota2-Earthshaker.jpg",
+  "bg": "https://wallpapercave.com/wp/wp3070125.jpg",
   "bg2": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/276c6298-0f0e-495a-8dc4-46ab50e5e8ea/d8t58io-8cb16380-6462-4fe3-896e-32a388caa77d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjc2YzYyOTgtMGYwZS00OTVhLThkYzQtNDZhYjUwZTVlOGVhXC9kOHQ1OGlvLThjYjE2MzgwLTY0NjItNGZlMy04OTZlLTMyYTM4OGNhYTc3ZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.eOOciRZlw1N7UU_jQlT8_TkhyAFC9MXhQpolaHPU1Ng",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://i.pinimg.com/originals/6a/51/bf/6a51bf49560d14cf000092f1c868f1d1.gif",
+      "title": "Qual é o melhor item para o Juggernaut?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Battle Fury",
+        "Aghanim's Scepter",
+        "Swift Blink",
+        "Daedalus",
+        "Manta Style"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://i.pinimg.com/originals/d0/88/5d/d0885db1c15f248af73aca7b2fda3e1a.gif",
       "title": "Como fazer um background gradiente com css?",
       "description": "Faz tempo em haha",
       "answer": 0,
@@ -32,8 +33,8 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#A6BB16",
-      "secondary": "#6C3294",
+      "primary": "#d34f32",
+      "secondary": "#fae76b",
       "mainBg": "#181310",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
