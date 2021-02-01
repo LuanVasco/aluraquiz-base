@@ -30,6 +30,7 @@ background-color: ${({ theme }) => theme.colors.primary};
 `;
 
 Widget.Content = styled.div`
+position: relative;
 padding: 24px 32px 32px 32px;
 & > *:First-child {
   margin-top: 0;
@@ -61,5 +62,13 @@ Widget.Topic = styled.a`
   }
 `;
 
+Widget.Reply = styled.div`
+  position: absolute;
+  background-color: ${({ theme }) => theme.colors.mainBg}; 
+  width: 100%;
+  height: 100%;
+  right: 0;
+  left:0;
+`;
 
 export default Widget;
