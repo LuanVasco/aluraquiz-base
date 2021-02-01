@@ -1,30 +1,46 @@
 {
   "bg": "https://wallpapercave.com/wp/wp3070125.jpg",
   "bg2": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/276c6298-0f0e-495a-8dc4-46ab50e5e8ea/d8t58io-8cb16380-6462-4fe3-896e-32a388caa77d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjc2YzYyOTgtMGYwZS00OTVhLThkYzQtNDZhYjUwZTVlOGVhXC9kOHQ1OGlvLThjYjE2MzgwLTY0NjItNGZlMy04OTZlLTMyYTM4OGNhYTc3ZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.eOOciRZlw1N7UU_jQlT8_TkhyAFC9MXhQpolaHPU1Ng",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "title": "Quiz Dota 2",
+  "description": "Teste os seus conhecimentos sobre Dota 2",
   "questions": [
     {
       "image": "https://i.pinimg.com/originals/6a/51/bf/6a51bf49560d14cf000092f1c868f1d1.gif",
       "title": "Qual é o melhor item para o Juggernaut?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 1,
       "alternatives": [
-        "Battle Fury",
         "Aghanim's Scepter",
-        "Swift Blink",
-        "Daedalus",
-        "Manta Style"
+        "Battle Fury",
+        "Manta Style",
+        "Swift Blink"
       ]
     },
     {
-      "image": "https://i.pinimg.com/originals/d0/88/5d/d0885db1c15f248af73aca7b2fda3e1a.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://pa1.narvii.com/6156/f1a09598cb80d13c5466d2b1c860564faef941bb_hq.gif",
+      "title": "Invoker é um herói de Inteligência, de longo alcance, muito difícil de se dominar. Ele é único já que possui um total de __ habilidades",
+      "description": "Sabe a resposta ?",
+      "answer": 3,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "6",
+        "8",
+        "12",
+        "14"
+        
+        
+        
+      ]
+    },
+    {
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/961972288704473179/E73F6013E76C0736C96FEC4B5B2226BFFAE91DCA/",
+      "title": "Qual o nome do courier mais caro já vendido por um brasileiro",
+      "description": "Pode não ser o do gif",
+      "answer": 1,
+      "alternatives": [
+        "Baby roshan",
+        "Chamas Etéreas Wardog",
+        "Huntling",
+        "Skip the Delivery Frog"
       ]
     }
   ],
